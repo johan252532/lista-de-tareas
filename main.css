@@ -1,0 +1,16 @@
+/* Tus estilos van aquí */
+body {
+  padding: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 2rem;
+}
+
+li {
+  margin: 1rem 0;
+  
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
